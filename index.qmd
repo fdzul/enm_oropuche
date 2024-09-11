@@ -31,6 +31,7 @@ execute:
 <h3>[Dr. Héctor Gómez-Dantés]{style="color:#620002;"}</h3>
 <h3>[Dr. Fabian Correa-Morales]{style="color:#620002;"}</h3>
 <h3>[Dr. Herón Huerta]{style="color:#620002;"}</h3>
+<h3>[Dra. Grea Moreno-Banda]{style="color:#620002;"}</h3>
 
 <br> 
 <br> 
@@ -39,7 +40,7 @@ execute:
 
 <br> 
 
-![](chains_ticul_2023.jpg){.absolute top="250" left="600" width="800"}
+![](https://www.ioc.fiocruz.br/sites/default/files/culicoides_paraensis_maruim_colecao_dentro.jpg){.absolute top="250" left="600" width="1200"}
 
 ```{r setup}
 #| echo: false
@@ -175,7 +176,7 @@ Especies Endémica
 </html>
 
 
-## [Modelos de Distribución ó Nicho Ecológico]{.r-fit-text style="color:#003300;"}
+## [Información Básica para los Modelos de Nicho Ecológico]{.r-fit-text style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
 ![](soley_guardia_2024.jpg){fig-align="center" height="900"}
@@ -213,6 +214,18 @@ Especies Endémica
     - [Copernicus](https://www.copernicus.eu/en)
     - [NASA](https://science.nasa.gov/earth/data/climate-data/)
 
+## [Modelo de Nicho Ecológico para *Culicoide paraensis*]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+
+## [Modelo de Nicho Ecológico para *Aedes aegypti*]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+
+## [Modelo de Nicho Ecológico para *Anopheles aztecus*]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+
 
 ## [Dios Botic]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
@@ -223,4 +236,4 @@ Especies Endémica
 
 -   ***celular*** : [9999580167]()
 
--   ***slide***: [link](https://imaginative-licorice-e8a663.netlify.app/#/)
+-   ***slide***: [link](https://funny-cendol-770749.netlify.app/#/)
