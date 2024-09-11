@@ -80,8 +80,7 @@ mapview::mapviewOptions(default = TRUE,
 ## [Conceptos Básicos: Configuraciones BAM ]{ style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
   
-
-![](bam_0.png){.absolute top="150" left="300" width="1200"}
+![](bam_0.png)
 
 ## [Conceptos Básicos: Configuraciones BAM ]{ style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
@@ -217,16 +216,51 @@ Especies Endémica
 ## [Modelo de Nicho Ecológico para *Culicoides paraensis*]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
+::: {layout-ncol=2}
 
 
-## [Modelo de Nicho Ecológico para *Aedes aegypti*]{style="color:#003300;"}
+**Paleta de Colores 1**
+
+**Paleta de Colores 2** 
+
+![](paraensis_prediction_viridis.jpg){fig-align="center" width="1200"}
+
+![](paraensis_prediction.jpg){fig-align="center" width="1200"}
+
+:::
+
+
+## [Modelo de Nicho Ecológico para *Aedes aegypti* en el Área Metropolitana de Ciudad de México]{.r-fit-text style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
+ <br> 
+ 
+::: {layout-ncol=2}
 
-## [Modelo de Nicho Ecológico para *Anopheles aztecus*]{style="color:#003300;"}
+
+**Paleta de Colores 1**
+
+**Paleta de Colores 2** 
+
+![](aedes_aegypti_viridis.jpg){fig-align="center"}
+
+![](aedes_aegypti_muted.jpg){fig-align="center"}
+
+
+:::
+
+## [Modelo de Nicho Ecológico para *Anopheles aztecus* en México]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
+::: {layout-ncol=2}
 
+
+**Paleta de Colores 1**
+
+**Paleta de Colores 2** 
+
+![](paraensis_prediction_viridis.jpg){fig-align="center" width="1200"}
+:::
 
 ## [Dios Botic]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
