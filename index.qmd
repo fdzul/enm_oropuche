@@ -67,17 +67,8 @@ mapview::mapviewOptions(default = TRUE,
   
   <br> 
   
-  a) Modelo de Nicho Ecoloógico para *Anopheles Aztecus*. 
+  a) Modelo de Nicho Ecológico para *Anopheles Aztecus*. 
   
-  
-## [Insumos para ]{style="color:#003300;"}
-<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
-
-  a) los registros de presencia o registro presencia/ausencia de la especie (con coordenadas).
-  
-  a) base de datos ambientales
-  
-  a) un software para en análisis  
   
 ## [Conceptos Básicos: BAM Teórico]{ style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
@@ -85,16 +76,109 @@ mapview::mapviewOptions(default = TRUE,
 
 ![](bam.png){.absolute top="150" left="300" width="900"}
 
-## [Conceptos Básicos: Tipos de BAM ]{ style="color:#003300;"}
+## [Conceptos Básicos: Configuraciones BAM ]{ style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+  
+
+![](bam_0.png){.absolute top="150" left="300" width="1200"}
+
+## [Conceptos Básicos: Configuraciones BAM ]{ style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
+<br> 
 
+<br> 
+  
+<html>
+<head>
+```{=html}
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 5px;
+  font-size: 25px;
+  text-align-last: center;
+  text-align: center;
+}
+</style>
+```
+</head>
+<body>
+<h1>
+</h1>
+<p>
+</p>
+
+::: grid-container
+
+
+::: grid-item
+Configuracion A
+:::
+
+::: grid-item
+Configuración B
+:::
+
+::: grid-item
+Configuración C
+:::
+
+::: grid-item
+![](bam_1.png)
+:::
+
+::: grid-item
+![](bam_2.png)
+
+:::
+
+::: grid-item
+![](bam_3.png)
+:::
+
+::: grid-item
+A = B = M
+:::
+
+::: grid-item
+A = B ≠ M
+:::
+
+::: grid-item
+A = B ≠ M
+:::
+
+::: grid-item
+Especies Cosmopolitas
+:::
+
+::: grid-item
+Especies Migratorias
+:::
+
+::: grid-item
+Especies Endémica
+:::
+
+
+:::
+
+</body>
+</html>
 
 
 ## [Modelos de Distribución ó Nicho Ecológico]{.r-fit-text style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
-- Que estamos modelando.
+
 
 
 ## [Dios Botic]{style="color:#003300;"}
