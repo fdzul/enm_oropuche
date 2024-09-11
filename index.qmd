@@ -1,0 +1,109 @@
+---
+format: 
+  revealjs:
+    #theme: ["theme/q-theme.scss"]
+    slide-number: c/t
+    logo: "https://www.insp.mx/assets/images/insp.png"
+    footer: "[github.com/fdzul](https://github.com/fdzul)"
+    code-copy: true
+    center-title-slide: false
+highlight-style: a11y
+code-link: true
+height: 1080
+width: 1600
+execute: 
+  eval: true
+  echo: true
+---
+
+<h2>[Modelo de Nicho Ecológico para los Vectores de Enfermedades]{style="color:#003300;"}<br></h2>
+
+<h2> </h2>
+
+<hr>
+<br> 
+<br> 
+<br> 
+<h3></h3>
+<h3>[Dr. Felipe Dzul Manzanilla]{style="color:#620002;"} </h3>
+<br> 
+<h3></h3>
+<h3>[Dr. Héctor Gómez-Dantés]{style="color:#620002;"}</h3>
+<h3>[Dr. Fabian Correa-Morales]{style="color:#620002;"}</h3>
+<h3>[Dr. Herón Huerta]{style="color:#620002;"}</h3>
+
+<br> 
+<br> 
+<br> 
+<h3> 2024-09-11</h3>
+
+<br> 
+
+![](chains_ticul_2023.jpg){.absolute top="250" left="600" width="800"}
+
+```{r setup}
+#| echo: false
+library(sf)
+mapview::mapviewOptions(default = TRUE,
+                        basemaps.color.shuffle = FALSE)
+```
+
+## [Temario]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+  a) Conceptos Básicos.
+  
+  <br> 
+  
+  a) Información Básica para los Modelos de Nicho Ecológico.
+  
+  <br> 
+  
+  a) Modelo de Nicho Ecológico para *Culicoide paraensis*. 
+  
+  <br> 
+  
+  a) Modelo de Nicho Ecológico para *Aedes aegypti* en área metropolitana de CDMX. 
+  
+  <br> 
+  
+  a) Modelo de Nicho Ecoloógico para *Anopheles Aztecus*. 
+  
+  
+## [Insumos para ]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+  a) los registros de presencia o registro presencia/ausencia de la especie (con coordenadas).
+  
+  a) base de datos ambientales
+  
+  a) un software para en análisis  
+  
+## [Conceptos Básicos: BAM Teórico]{ style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+  
+
+![](bam.png){.absolute top="150" left="300" width="900"}
+
+## [Conceptos Básicos: Tipos de BAM ]{ style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+
+
+
+## [Modelos de Distribución ó Nicho Ecológico]{.r-fit-text style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+- Que estamos modelando.
+
+
+## [Dios Botic]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+-   ***Bio*** : [https://fdzul.github.io/web_site_fadm/]()
+
+-   ***email*** : [felipe.dzul.m\@gmail.com]()
+
+-   ***celular*** : [9999580167]()
+
+-   ***slide***: [link](https://imaginative-licorice-e8a663.netlify.app/#/)
