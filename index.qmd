@@ -60,7 +60,7 @@ mapview::mapviewOptions(default = TRUE,
   
   <br> 
   
-  a) Modelo de Nicho Ecológico para *Culicoide paraensis*. 
+  a) Modelo de Nicho Ecológico para *Culicoides paraensis*. 
   
   <br> 
   
@@ -214,8 +214,9 @@ Especies Endémica
     - [Copernicus](https://www.copernicus.eu/en)
     - [NASA](https://science.nasa.gov/earth/data/climate-data/)
 
-## [Modelo de Nicho Ecológico para *Culicoide paraensis*]{style="color:#003300;"}
+## [Modelo de Nicho Ecológico para *Culicoides paraensis*]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
 
 
 ## [Modelo de Nicho Ecológico para *Aedes aegypti*]{style="color:#003300;"}
