@@ -252,15 +252,9 @@ Especies Endémica
 ## [Modelo de Nicho Ecológico para *Anopheles aztecus* en México]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
-::: {layout-ncol=2}
 
 
-**Paleta de Colores 1**
-
-**Paleta de Colores 2** 
-
-![](paraensis_prediction_viridis.jpg){fig-align="center" width="1200"}
-:::
+![](Anopheles_aztecus.jpg){fig-align="center" width="1200"}
 
 ## [Dios Botic]{style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
