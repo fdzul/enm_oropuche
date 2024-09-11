@@ -178,7 +178,40 @@ Especies Endémica
 ## [Modelos de Distribución ó Nicho Ecológico]{.r-fit-text style="color:#003300;"}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
 
+![](soley_guardia_2024.jpg){fig-align="center" height="900"}
 
+## [Fuentes de Información de los Registros de Presencia o Ocurrencia]{.r-fit-text style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+  - Bases de datos de Primero Orden
+    - Colectas personales
+    - Colectas del Programa
+    
+  - Bases de datos de Segundo Orden
+    - Reviciones bibiográficas.
+    - Bases de datos [GBIF](https://www.gbif.org), 
+    - [Mosquito Dashboard](https://experience.arcgis.com/experience/7228a5a27442468494caec2934c2b73d)
+    - [vector](https://vectormap.si.edu)
+    - [Conabio](https://www.snib.mx/ejemplares/descarga/)
+
+
+## [Fuentes de Información de las Variables Ambientales]{.r-fit-text style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+  - Bases de Datos de Primero Orden
+  - Bases de Datos de Segundo Orden
+    - Reviciones bibiográficas
+    - [WorldClim1](https://www.worldclim.org/data/bioclim.html#google_vignette) 
+    - [WorldClim2](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/joc.5086)
+    - [PaleoClim](http://www.paleoclim.org)
+    - [Chelsa](https://chelsa-climate.org)
+    - [Conabio](http://www.conabio.gob.mx/informacion/gis/)
+    - [idgeo](https://idegeo.centrogeo.org.mx/interactive/layers)
+    - [Conafor](https://idefor.cnf.gob.mx/layers/geonode%3Acdv_usuev250svii_cnal_wgs84)
+    - [gema](https://gema.conahcyt.mx/visualizador#map=5/23.6254/-93.3291)
+    - [Google Earth Engine](https://earthengine.google.com)
+    - [Copernicus](https://www.copernicus.eu/en)
+    - [NASA](https://science.nasa.gov/earth/data/climate-data/)
 
 
 ## [Dios Botic]{style="color:#003300;"}
